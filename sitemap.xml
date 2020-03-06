@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mcooly.com/categories/</loc>
+    <loc>https://mcooly.com/post/first-post/</loc>
+    <lastmod>2020-03-07T01:28:36+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://mcooly.com/</loc>
+    <lastmod>2020-03-07T01:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcooly.com/post/</loc>
+    <lastmod>2020-03-07T01:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcooly.com/categories/</loc>
   </url>
   
   <url>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mCooly</title>
-    <link>https://mcooly.com/</link>
-    <description>Recent content on mCooly</description>
+    <title>Posts on mCooly</title>
+    <link>https://mcooly.com/post/</link>
+    <description>Recent content in Posts on mCooly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Mar 2020 01:28:36 +0800</lastBuildDate>
     
-	<atom:link href="https://mcooly.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mcooly.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
